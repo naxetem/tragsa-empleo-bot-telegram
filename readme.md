@@ -62,5 +62,12 @@ Es recomendable configurar cron para ejecutar este script regularmente. Para hac
 - `main()`: Compara ofertas nuevas con las anteriores y notifica cambios.
 - `enviar_mensaje_telegram(mensaje)`: Envía un mensaje vía Telegram.
 
+## Mensaje bot ejemplo
 
+<div style="border: 1px solid #ddd; padding: 10px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9;">
+    <h2>Oferta: Ingeniero/a de Montes - Tramitación de convenios de montes públicos (Sevilla)</h2>
+    <p><strong>Número de puestos:</strong> 1</p>
+    <p><strong>Fecha límite:</strong> 17/06/2024</p>
+    <p><strong>Link:</strong> <a href="https://www.tragsa.es/_layouts/15/GrupoTragsa/ficha-oferta-empleo.aspx?tipo=FTG&jobid=42403">Link</a></p>
+</div>
 
