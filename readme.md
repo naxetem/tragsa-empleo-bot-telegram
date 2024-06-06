@@ -1,6 +1,5 @@
 
-# Bot telegram de ofertas de empleo Tragsa
-
+# Scrapper ofertas de empleo tragsa
 ## Descripción
 
 1. **Descarga ofertas de empleo desde URLs.**
