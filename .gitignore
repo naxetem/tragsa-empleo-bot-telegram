@@ -1,6 +1,7 @@
 config.py
-out/
 cuadernos_ensayos/
 log
 __pycache__/
 confgigigiig.py
+out/tragsa_especificas.csv
+out/tragsa_it.csv
